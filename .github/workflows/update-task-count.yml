@@ -9,6 +9,7 @@ on:
       - 'task_*.sql'
       - 'update_task_count.py'
       - '.github/workflows/update-task-count.yml'
+      - 'README.md'
 
 permissions:
   contents: write
